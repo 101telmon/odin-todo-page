@@ -1,0 +1,9 @@
+- Todo objects, look at creating classes / objects
+    - title, description, dueDate, priority
+- Other sections, like "notes" and a "checklist"
+- Different todos for different "projects" that the user can create
+- Separate application logic
+    - Creating and manipulating todos
+    - Creating and manipulating projects
+- Use classes to create base structure of todos and projects
+- Make sure to use webpack!
